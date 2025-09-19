@@ -1,6 +1,6 @@
 ## Hi there👋 I'm Aya Hussein
 
-I'm an Egyptian Full-Stack Developer with 4+ years of Experience in different backend and frontend frameworks, especially Node.js, Angular, and AWS serverless technologies. 
+I'm an Egyptian Full-Stack Developer with 4+ years of Experience using different backend and frontend frameworks, especially Node.js, Angular, and AWS serverless technologies. 
 I'm also an  AWS Certified Cloud Practitioner <a href="https://www.credly.com/badges/d0289869-d5fb-4def-af7f-559bb40b7bc4">view credentials</a>. I'm very passionate about building scalable solutions and eager to learn and adapt to new technologies.
 
 ## 🛠️ Technical Skills
