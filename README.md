@@ -4,7 +4,7 @@ I'm an Egyptian Full-Stack Developer with 4+ years of Experience in different ba
 I'm also an  AWS Certified Cloud Practitioner, passionate about building scalable solutions and eager to learn and adapt to new technologies
 
 ## 🛠️ Technical Skills
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
@@ -34,5 +34,12 @@ I'm also an  AWS Certified Cloud Practitioner, passionate about building scalabl
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
 
+## Contact Me
+<div align="left">
+  [<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />](https://www.linkedin.com/in/aya-hussein-19a359134)
+  [<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />](mailto:aya.hussein3107@gmail.com)
+  [<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />](https://api.whatsapp.com/send/?phone=+201011833038)
+  [<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />](https://telegram.me/ayahussein443)
+</div>
 
 
