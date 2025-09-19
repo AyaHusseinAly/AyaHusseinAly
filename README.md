@@ -3,6 +3,7 @@
 I'm an Egyptian Full-Stack Developer with 4+ years of Experience in different backend and frontend frameworks, especially Node.js, Angular, and AWS serverless technologies. 
 I'm also an  AWS Certified Cloud Practitioner, passionate about building scalable solutions and eager to learn and adapt to new technologies
 
+<br/>
 ## 🛠️ Technical Skills
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -34,6 +35,7 @@ I'm also an  AWS Certified Cloud Practitioner, passionate about building scalabl
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
 
+<br/>
 ## Contact Me
 <div align="left">
   <a href="https://www.linkedin.com/in/aya-hussein-19a359134" target="_blank">
