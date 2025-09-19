@@ -1,4 +1,4 @@
-## Hi there, I'm Aya Hussein👋 
+## Hi there👋 I'm Aya Hussein
 
 ## 🚀 About Me
 I'm an Egyptian Full-Stack Developer with 4+ years of Experience in different backend and frontend frameworks, especially Node.js, Angular, and AWS serverless technologies. 
