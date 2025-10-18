@@ -36,9 +36,6 @@ I'm also an  AWS Certified Cloud Practitioner <a href="https://www.credly.com/ba
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" title="linux"  />
 </div>
 
-## Portfolio
-<div align="left"> <a href="https://ayahussein.onrender.com/" target="_blank"> <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge"/> </a> <br/> Explore my personal portfolio to see my featured projects, skills in action, and technical achievements. </div>
-
 ## Contact Me
 <div align="left">
   <a href="https://www.linkedin.com/in/aya-hussein-19a359134" target="_blank">
@@ -57,6 +54,10 @@ I'm also an  AWS Certified Cloud Practitioner <a href="https://www.credly.com/ba
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
   </a>
 
+</div>
+
+<br/>
+<div align="left"> <a href="https://ayahussein.onrender.com/" target="_blank"> <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge"/> </a>
 </div>
 
 
