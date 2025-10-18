@@ -37,7 +37,7 @@ I'm also an  AWS Certified Cloud Practitioner <a href="https://www.credly.com/ba
 </div>
 
 ## Portfolio
-(view my portfolio)[https://ayahussein.onrender.com]
+<div align="left"> <a href="https://ayahussein.onrender.com/" target="_blank"> <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge"/> </a> <br/> Explore my personal portfolio to see my featured projects, skills in action, and technical achievements. </div>
 
 ## Contact Me
 <div align="left">
