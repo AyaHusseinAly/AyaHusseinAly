@@ -34,7 +34,6 @@ I'm also an  AWS Certified Cloud Practitioner <a href="https://www.credly.com/ba
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" title="docker"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" title="linux"  />
 </div>
 
 ## Contact Me
