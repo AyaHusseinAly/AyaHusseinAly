@@ -4,7 +4,7 @@ I'm an Egyptian Full-Stack Developer with over 4 years of Experience working wit
 I'm also an  AWS Certified Cloud Practitioner <a href="https://www.credly.com/badges/d0289869-d5fb-4def-af7f-559bb40b7bc4">view credentials</a>. I'm always eager to learn and adapt to new technologies in the field.
 
 ## 🛠️ Technical Skills
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" title="javascript"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" title="typescript"  />
@@ -26,10 +26,12 @@ I'm also an  AWS Certified Cloud Practitioner <a href="https://www.credly.com/ba
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" title="PostgreSQL"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" title="mySQL"  />
-  <!-- <img width="12" />
+  <!-- 
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="python"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" title="django"  /> -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" title="django"  /> 
+  -->
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" title="docker"  />
   <img width="12" />
