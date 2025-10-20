@@ -38,12 +38,6 @@
 
 </div>
 
-
-
-
-
-
-## 🛠️ Technical Skills
 <div align="left">
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" title="javascript"  />
