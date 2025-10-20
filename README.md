@@ -1,5 +1,8 @@
-[![Codewars](https://www.codewars.com/users/AyaHusseinAly/badges/small)](https://www.codewars.com/users/AyaHusseinAly)
-
+<div align="right">
+  <a href="https://www.codewars.com/users/AyaHusseinAly">
+    <img src="https://www.codewars.com/users/AyaHusseinAly/badges/small" alt="Codewars Badge"/>
+  </a>
+</div>
 
 ## Hi there👋 I'm Aya Hussein
 
