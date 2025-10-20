@@ -37,6 +37,8 @@ I'm also an  AWS Certified Cloud Practitioner <a href="https://www.credly.com/ba
 
 ## Contact Me
 <div align="left">
+    <a href="https://ayahussein.onrender.com/" target="_blank"> <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge"/> </a>
+
   <a href="https://www.linkedin.com/in/aya-hussein-19a359134" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
@@ -55,9 +57,9 @@ I'm also an  AWS Certified Cloud Practitioner <a href="https://www.credly.com/ba
 
 </div>
 
-<div align="left">
+<!-- <div align="right">
   <a href="https://ayahussein.onrender.com/" target="_blank"> <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge"/> </a>
-</div>
+</div> -->
 
 <div align="right">
   <a href="https://www.codewars.com/users/AyaHusseinAly">
