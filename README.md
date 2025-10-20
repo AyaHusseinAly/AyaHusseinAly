@@ -5,6 +5,7 @@ I'm also an  AWS Certified Cloud Practitioner <a href="https://www.credly.com/ba
 
 ## 🛠️ Technical Skills
 <div align="left">
+  <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" title="javascript"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" title="typescript"  />
