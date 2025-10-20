@@ -1,3 +1,5 @@
+[![Codewars](https://www.codewars.com/users/AyaHusseinAly/badges/large)](https://www.codewars.com/users/AyaHusseinAly)
+
 
 ## Hi there👋 I'm Aya Hussein
 
@@ -57,10 +59,8 @@ I'm also an  AWS Certified Cloud Practitioner <a href="https://www.credly.com/ba
 </div>
 <div align="right"> 
   <a href="https://ayahussein.onrender.com/" target="_blank"> <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge"/> </a>
-  <!-- ![Codewars](https://www.codewars.com/users/AyaHusseinAly/badges/large) -->
 </div>
 
-[![Codewars](https://www.codewars.com/users/AyaHusseinAly/badges/large)](https://www.codewars.com/users/AyaHusseinAly)
 
 
 
