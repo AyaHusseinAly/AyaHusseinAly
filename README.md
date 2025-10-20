@@ -55,7 +55,7 @@ I'm also an  AWS Certified Cloud Practitioner <a href="https://www.credly.com/ba
 
 </div>
 
-<divalign="center">
+<div align="center">
   <a href="https://www.codewars.com/users/AyaHusseinAly">
       <img src="https://www.codewars.com/users/AyaHusseinAly/badges/small" alt="Codewars Badge"/>
     </a>
