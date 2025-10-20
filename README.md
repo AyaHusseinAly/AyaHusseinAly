@@ -1,4 +1,4 @@
-[![Codewars](https://www.codewars.com/users/AyaHusseinAly/badges/large)](https://www.codewars.com/users/AyaHusseinAly)
+[![Codewars](https://www.codewars.com/users/AyaHusseinAly/badges/small)](https://www.codewars.com/users/AyaHusseinAly)
 
 
 ## Hi there👋 I'm Aya Hussein
