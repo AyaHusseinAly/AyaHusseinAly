@@ -1,7 +1,5 @@
-<div align=right>
- <a href="https://ayahussein.onrender.com/" target="_blank"> <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge"/> </a>
-</div>
-##  Hi there 👋 I'm Aya Hussein
+
+## Hi there 👋 I'm Aya Hussein
 I'm an Egyptian Full-Stack Developer with over 4 years of Experience working with various backend and frontend frameworks, including NodeJS, NestJS, Angular, React, and AWS serverless technologies. 
 I'm also an  AWS Certified Cloud Practitioner <a href="https://www.credly.com/badges/d0289869-d5fb-4def-af7f-559bb40b7bc4">view credentials</a>. I'm always eager to learn and adapt to new technologies in the field.
 
@@ -57,9 +55,9 @@ I'm also an  AWS Certified Cloud Practitioner <a href="https://www.credly.com/ba
 
 </div>
 
-<!-- <div align="right">
-  <a href="https://ayahussein.onrender.com/" target="_blank"> <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge"/> </a>
-</div> -->
+<div align=right>
+ <a href="https://ayahussein.onrender.com/" target="_blank"> <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge"/> </a>
+</div>
 
 <div align="right">
   <a href="https://www.codewars.com/users/AyaHusseinAly">
