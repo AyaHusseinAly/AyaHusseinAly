@@ -1,7 +1,15 @@
+## 👩‍💻 About Me
 
-## Hi there 👋 I'm Aya Hussein
-I'm an Egyptian Full-Stack Developer with over 4 years of Experience working with various backend and frontend frameworks, including NodeJS, NestJS, Angular, React, and AWS serverless technologies. 
-I'm also an  AWS Certified Cloud Practitioner <a href="https://www.credly.com/badges/d0289869-d5fb-4def-af7f-559bb40b7bc4">view credentials</a>. I'm always eager to learn and adapt to new technologies in the field.
+- 🌍 **Egyptian Full-Stack Developer**  
+- 💼 **4+ years of experience** building and maintaining web applications  
+- ⚙️ **Backend:** Node.js, Express.js, NestJS  
+- 🎨 **Frontend:** JS, TS, Angular, React
+- 🗄️ **Databases:** MySQL, PostgreSQL, MongoDB  
+- 🧪 **Testing:** Jest  
+- ☁️ **Cloud & Serverless:** Experienced with **AWS** technologies  
+- 🏅 **AWS Certified Cloud Practitioner** – [View Credentials](https://www.credly.com/badges/d0289869-d5fb-4def-af7f-559bb40b7bc4)  
+- 🚀 Always **learning, adapting, and exploring** new technologies  
+
 
 ## 🛠️ Technical Skills
 <div align="left">
