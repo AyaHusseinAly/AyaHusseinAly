@@ -1,6 +1,6 @@
 <div align="right">
   <a href="https://www.codewars.com/users/AyaHusseinAly">
-    <img src="https://www.codewars.com/users/AyaHusseinAly/badges/small" alt="Codewars Badge"/>
+    <img src="https://www.codewars.com/users/AyaHusseinAly/badges/micro" alt="Codewars Badge"/>
   </a>
 </div>
 
