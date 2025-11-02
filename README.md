@@ -34,7 +34,7 @@
 ## 
 <div align="right">
   <a href="https://www.codewars.com/users/AyaHusseinAly">
-      <img src="https://www.codewars.com/users/AyaHusseinAly/badges/large" alt="Codewars Badge" style="width:220px"/>
+      <img src="https://www.codewars.com/users/AyaHusseinAly/badges/large" alt="Codewars Badge" style="width:300px"/>
     </a>
 
 </div>
