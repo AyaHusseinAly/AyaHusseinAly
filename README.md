@@ -2,7 +2,7 @@
 
 - 🌍 **Egyptian Full-Stack Developer**  
 - 💼 **4+ years of experience** building and maintaining web applications  
-- ⚙️ **Backend:** Node.js, Express.js, NestJS  
+- ⚙️ **Backend:** Node.js, Express.js, NestJS, RoR
 - 🎨 **Frontend:** JS, TS, Angular, React
 - 🗄️ **Databases:** MySQL, PostgreSQL, MongoDB  
 - 🧪 **Testing:** Jest  
