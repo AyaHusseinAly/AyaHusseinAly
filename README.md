@@ -5,10 +5,11 @@
 - ⚙️ **Backend:** Node.js, Express.js, NestJS, Ruby, Python
 - 🎨 **Frontend:** JS, TS, Angular, React
 - 🗄️ **Databases:** MySQL, PostgreSQL, MongoDB  
-- 🧪 **Testing:** Jest  
-- ☁️ **Cloud & Serverless:** AWS, AWS CDK (Infrastructure as Code), Serverless
+- ☁️ **Cloud & Serverless:** Experienced with **AWS** technologies
+- 🏗️ **Infrastructure as Code (IaC):** AWS CDK
 - 🔄 **CI/CD & Automation:** GitHub Actions
 - 🏅 **AWS Certified Cloud Practitioner** – [View Credentials](https://www.credly.com/badges/d0289869-d5fb-4def-af7f-559bb40b7bc4)  
+- 🧪 **Testing:** Jest  
 - 🚀 Always **learning, adapting, and exploring** new technologies  
 
 
