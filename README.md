@@ -6,7 +6,8 @@
 - 🎨 **Frontend:** JS, TS, Angular, React
 - 🗄️ **Databases:** MySQL, PostgreSQL, MongoDB  
 - 🧪 **Testing:** Jest  
-- ☁️ **Cloud & Serverless:** Experienced with **AWS** technologies  
+- ☁️ **Cloud & Serverless:** AWS, AWS CDK (Infrastructure as Code), Serverless
+- 🔄 **CI/CD & Automation:** GitHub Actions
 - 🏅 **AWS Certified Cloud Practitioner** – [View Credentials](https://www.credly.com/badges/d0289869-d5fb-4def-af7f-559bb40b7bc4)  
 - 🚀 Always **learning, adapting, and exploring** new technologies  
 
